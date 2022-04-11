@@ -1,5 +1,4 @@
 # Sense
-Music player
 A simple music player based on JAVA
 
 Heavily inspired by Programitty
